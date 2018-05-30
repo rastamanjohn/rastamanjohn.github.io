@@ -1,0 +1,9 @@
+body,
+html {
+    font-size: 32px;
+    color: #ff;
+}
+
+a:visited {
+    color: #fff;
+}
